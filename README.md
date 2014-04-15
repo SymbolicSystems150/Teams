@@ -42,3 +42,16 @@ Teams for External Reviews and End of Quarter Projects
   * Tyler Sorenson
   * Jack Maris
   * **Presenting:** May 12
+
+  
+#####Team:
+  * Wee Chuan
+  * Andy Chua
+  * **Presenting:** N/A
+  
+#####Team:
+  * Derrick Liu
+  * Omkar
+  * **Presenting:** N/A
+
+
