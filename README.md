@@ -51,7 +51,7 @@ Teams for External Reviews and End of Quarter Projects
   
 #####Team:
   * Derrick Liu
-  * Omkar
-  * **Presenting:** N/A
+  * Omkar Joshi
+  * **Presenting:** May 5
 
 
