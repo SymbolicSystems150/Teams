@@ -47,7 +47,7 @@ Teams for External Reviews and End of Quarter Projects
 #####Team:
   * Wee Chuan
   * Andy Chua
-  * **Presenting:** N/A
+  * **Presenting:** May 5
   
 #####Team:
   * Derrick Liu
