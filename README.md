@@ -34,6 +34,7 @@ Teams for External Reviews and End of Quarter Projects
   * John Morgan
   * Ray Zhou
   * Anjney Midha
+  * Liu Jiang
   * **Presenting:** May 12
 
 #####Team L2 Cash:
