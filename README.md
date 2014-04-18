@@ -13,13 +13,6 @@ Teams for External Reviews and End of Quarter Projects
   * Rikin Shah
   * Keith Gross
   * **Presenting:** May 12
-  
-#####Team:
-  * Payton Broaddus
-  * Jack Maris
-  * Saurahb Sharan
-  * Tyler Sorensen
-  * **Presenting:** May 12
 
 #####Team:
   * Dan Cocuzzo
@@ -42,7 +35,7 @@ Teams for External Reviews and End of Quarter Projects
   * Payton Broaddus
   * Tyler Sorenson
   * Jack Maris
-  * **Presenting:** May 12
+  * **Presenting:** May 12, External Review: Mt Gox. EOQ: Tax Implementation laws..
 
   
 #####Team:
