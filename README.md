@@ -3,6 +3,17 @@ Teams
 
 Teams for External Reviews and End of Quarter Projects
 
+
+#####Team:
+  * Wee Chuan
+  * Andy Chua
+  * **Presenting:** May 5
+  
+#####Team:
+  * Josh Beal
+  * Matthew Arkin
+  * **Presenting:** May 5
+
 #####Team:
   * Eduardo Baer
   * Harrison Chilton
@@ -37,20 +48,6 @@ Teams for External Reviews and End of Quarter Projects
   * Jack Maris
   * **Presenting:** May 12, External Review: Mt Gox. EOQ: Tax Implementation laws..
 
-  
-#####Team:
-  * Wee Chuan
-  * Andy Chua
-  * **Presenting:** May 5
-  
-#####Team:
-  * Derrick Liu
-  * Omkar Joshi
-  * **Presenting:** May 5
-  
-#####Team:
-  * Josh Beal
-  * Matthew Arkin
-  * **Presenting:** May 5
+
 
 
