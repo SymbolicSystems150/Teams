@@ -23,14 +23,14 @@ Teams for External Reviews and End of Quarter Projects
   * John Komkov
   * Rikin Shah
   * Keith Gross
-  * **Presenting:** May 12
+  * **Presenting:** May 19
 
 #####Team:
   * Dan Cocuzzo
   * Justin Maletsky
   * Doug Sharp
   * Alex Marlantes
-  * **Presenting:** May 12
+  * **Presenting:** May 19
 
 #####Team:
   * Paul Benigeri
@@ -39,14 +39,14 @@ Teams for External Reviews and End of Quarter Projects
   * Ray Zhou
   * Anjney Midha
   * Liu Jiang
-  * **Presenting:** May 12
+  * **Presenting:** May 19
 
 #####Team L2 Cash:
   * Saurab Sharan
   * Payton Broaddus
   * Tyler Sorenson
   * Jack Maris
-  * **Presenting:** May 12, External Review: Mt Gox. EOQ: Tax Implementation laws..
+  * **Presenting:** May 19, External Review: Mt Gox. EOQ: Tax Implementation laws..
 
 
 
