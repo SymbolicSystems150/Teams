@@ -7,17 +7,17 @@ Teams for External Reviews and End of Quarter Projects
 #####Team:
   * Wee Chuan
   * Andy Chua
-  * **Presenting:** May 5
+  * **Presenting:** May 19
   
 #####Team:
   * Josh Beal
   * Matthew Arkin
-  * **Presenting:** May 5
+  * **Presenting:** May 19
 
 #####Team:
   * Eduardo Baer
   * Harrison Chilton
-  * **Presenting:** May 12
+  * **Presenting:** May 19
 
 #####Team Jekyll Island:
   * John Komkov
