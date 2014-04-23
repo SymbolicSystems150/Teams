@@ -39,7 +39,7 @@ Teams for External Reviews and End of Quarter Projects
   * Ray Zhou
   * Anjney Midha
   * Liu Jiang
-  * **Presenting:** May 19
+  * **Presenting:** May 19, External Review: Major bank perspective on Bankings..
 
 #####Team L2 Cash:
   * Saurab Sharan
