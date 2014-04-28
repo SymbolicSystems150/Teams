@@ -19,6 +19,12 @@ Teams for External Reviews and End of Quarter Projects
   * Harrison Chilton
   * **Presenting:** May 19
 
+#####Team:
+  * Mariano Sorgente
+  * Adrian Leven
+  * **Presenting:** May 19 External Review: Ethereum, EOQ: CoinJoin/Anonymity
+
+
 #####Team Jekyll Island:
   * John Komkov
   * Rikin Shah
