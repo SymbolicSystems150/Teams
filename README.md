@@ -25,7 +25,8 @@ Teams for External Reviews and End of Quarter Projects
 #####Team:
   * Mariano Sorgente
   * Adrian Leven
-  * **Presenting:** May 19 External Review: Ethereum, EOQ: CoinJoin/Anonymity
+  * **Presenting:** May 19 External Review: Ethereum 
+  * *Project*: CoinJoin/Anonymity
 
 
 #####Team Jekyll Island:
@@ -40,6 +41,7 @@ Teams for External Reviews and End of Quarter Projects
   * Doug Sharp
   * Alex Marlantes
   * **Presenting:** May 19
+  * *Project*: Remittances 
 
 #####Team:
   * Paul Benigeri
@@ -49,6 +51,7 @@ Teams for External Reviews and End of Quarter Projects
   * Anjney Midha
   * Liu Jiang
   * **Presenting:** May 19, External Review: Major bank perspectives..
+  * *Project*: Text/gambling Bitcoin app.
 
 #####Team L2 Cash:
   * Saurab Sharan
