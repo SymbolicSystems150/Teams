@@ -8,16 +8,19 @@ Teams for External Reviews and End of Quarter Projects
   * Wee Chuan
   * Andy Chua
   * **Presenting:** May 19
+  * *Project*: Bitcoin security and wallet technology
   
 #####Team:
   * Josh Beal
   * Matthew Arkin
   * **Presenting:** May 19
+  * *Project*: Tippt
 
 #####Team:
   * Eduardo Baer
   * Harrison Chilton
   * **Presenting:** May 19
+  * *Project*: Mapping of the cryptocurrency sector to the existing financial sector
 
 #####Team:
   * Mariano Sorgente
