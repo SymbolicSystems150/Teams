@@ -60,6 +60,12 @@ Teams for External Reviews and End of Quarter Projects
   * Jack Maris
   * **Presenting:** May 19, External Review: Mt Gox. EOQ: Tax Implementation laws..
 
-
+#####Team:
+  * Helen Hastings
+  * Rachel Grau
+  * Matt Rolfo
+  * **Presenting:** May 19
+  * *Project*: MaidSafe
+  
 
 
