@@ -64,8 +64,8 @@ Teams for External Reviews and End of Quarter Projects
   * Helen Hastings
   * Rachel Grau
   * Matt Rolfo
-  * **Presenting:** May 19
-  * *Project*: MaidSafe
+  * **Presenting:** May 19, External Review: MaidSafe
+  * *Project*: 
   
 
 
